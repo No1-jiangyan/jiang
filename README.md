@@ -1,2 +1,2 @@
 # jiang
-(line.md)[line.md]
+[line.md](line.md)
